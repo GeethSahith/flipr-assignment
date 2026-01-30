@@ -1,0 +1,9 @@
+/* App styles */
+.home {
+  width: 100%;
+  background: var(--white);
+}
+
+.home main {
+  min-height: 100vh;
+}
