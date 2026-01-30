@@ -31,4 +31,7 @@ npm run dev
 - JavaScript
 - CSS
 
+## Live Demo
+- https://flipr-assignment-kappa.vercel.app/
+
 **Author:** Geeth Sahith
